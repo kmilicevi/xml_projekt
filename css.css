@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    
+}
+#omotac {
+    background: rgba(179, 176, 176, 0.2);
+}
+header {
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+header img {
+    width: 20%;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+    background: lightpink;
+}
+
+.image {
+    width: 50%;
+    padding: 4px;
+    float: left;
+    padding-left: 100px;
+}
+.image img {
+    width: 50%;
+}
+.tekst {
+    width: 50%;
+    float: right;
+    padding-right: 100px;
+}
+article {
+    width: 100%;
+    clear: both;
+    border: 1px solid black;
+}
+h1 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+}
